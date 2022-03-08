@@ -1,4 +1,4 @@
-[<img src="https://github.com/FatemehTorabi/FatemehTorabi/blob/main/FatemehIntro.gif"]
+[<img src="https://github.com/FatemehTorabi/FatemehTorabi/blob/main/FatemehIntro.gif"/>]
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FatemehTorabi&color=blue)
 <!--
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ## :book: 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](![Metrics](https://metrics.lecoq.io/FatemehTorabi?template=classic&config.timezone=Europe%2FLondon))
+![Metrics](https://metrics.lecoq.io/FatemehTorabi?template=classic&config.timezone=Europe%2FLondon)
 
 
 Tools and inspirations used 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
