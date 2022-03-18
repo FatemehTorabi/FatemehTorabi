@@ -1,4 +1,4 @@
-<img src="https://github.com/FatemehTorabi/FatemehTorabi/blob/main/FatemehIntro.gif"/>
+<img src="https://github.com/FatemehTorabi/FatemehTorabi/blob/main/FatemehTorabi.gif"/>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FatemehTorabi&color=blue)
 <!--
