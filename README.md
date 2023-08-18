@@ -1,6 +1,6 @@
 <img src="https://github.com/FatemehTorabi/FatemehTorabi/blob/main/FatemehTorabi_v1.2.gif"/>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FatemehTorabi&color=blue)
+
 <!--
 **FatemehTorabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
