@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 1. 💠 Led the Wales vaccine safety analysis available at [DaCVaP](https://github.com/HDRUK/DaCVaP/tree/main/Wales)
 2. 💠 Led the Wales dispensed medication dashboard available at [WDDS](https://wdds.uk/) following mapping of DM+D drug medication codes to BNF using [Mappings](https://github.com/FatemehTorabi/PrescriptionMapping)
 3. 💠 Contributed to COVID-19 vaccination and disease and the risks of myocarditis and pericarditis available at [BHFDSC-CCU002_03](https://github.com/BHFDSC/CCU002_03)
-4. 💠 Developing on cardiovascular risk scores available at [CVD-risk](https://github.com/FatemehTorabi/Cardiovascular_Risk_Scores/blob/master/RiskScoreComponants%20-%20CHAD-HAS.pdf)
+4. 💠 Contributed to a population-level analysis of 60 million individuals available at [BHFDSC-CCU014_03](https://github.com/BHFDSC/CCU014_03/tree/main)
+5. 💠 Developing on cardiovascular risk scores available at [CVD-risk](https://github.com/FatemehTorabi/Cardiovascular_Risk_Scores/blob/master/RiskScoreComponants%20-%20CHAD-HAS.pdf)
 <!--END_SECTION:activity-->
 
 
